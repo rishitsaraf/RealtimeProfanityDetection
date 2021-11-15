@@ -3,4 +3,4 @@ pandas==1.2.3
 matplotlib==3.3.3  
 streamlit==0.88.0
 scikit-learn==0.24.1
-profanity-check==1.0.3
+better-profanity==0.7.0
